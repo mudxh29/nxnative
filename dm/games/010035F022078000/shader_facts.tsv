@@ -1214,3 +1214,4 @@ ff26ceb649462075	{"local":[8,8,1],"shared":0}
 ff9e13784b4e2fe0	{"local":[64,1,1],"shared":352}
 ffc9c80b012c7b6a	{"local":[8,8,1],"shared":3840}
 fffe63cff27918aa	{"local":[8,8,1],"shared":4352}
+17eda07e4bac39f8	{"fout":{"0":"uint"}}
